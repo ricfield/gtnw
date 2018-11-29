@@ -1,8 +1,8 @@
 import City, random
 
 
-usa_cities = [ City("Cheyenne"), City("Akron"), City("Cordova") ]
-russia_cities = [ City("Moscow"), City("Vladivostok"), City("Leningrad") ]
+usa_cities = [ City("a"), City("b"), City("c") ]
+russia_cities = [ City("1"), City("2"), City("3") ]
                                                     
 
 def main():
